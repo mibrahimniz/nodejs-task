@@ -2,13 +2,13 @@
 
 ## Clone the repository
 ```bash
-$ git clone https://github.com/mibrahimniz/nodejs-task.git
+git clone https://github.com/mibrahimniz/nodejs-task.git
 ```
 
 ## Installation of dependencies
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Running the application
@@ -20,7 +20,7 @@ $ npm install
 
 ```bash
 # Run the application server
-$ npm start
+npm start
 ```
 
 ```bash
