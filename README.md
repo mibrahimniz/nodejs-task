@@ -15,7 +15,7 @@ npm install
 
 ```bash
 # Create database in postgres DB
-# Check required environment viariables in sample.env and place them into .env file
+# Check required environment variables in sample.env and place them into .env file
 ```
 
 ```bash
